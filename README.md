@@ -1,7 +1,9 @@
 # MuralDDRM: A Novel Ancient Murals Restoration Framework with Sketch Constrain and Realism Modify.
 
-[Dong Sui]<sup>1</sup>, [Nanting Song]<sup>1</sup>, [Yacong Li]<sup>2</sup>, [Yang Li]<sup>1</sup>,Maozu,Guo<sup>1</sup>,.<br />
-<sup>1</sup>  Beijing University of Civil Engineering and Architecture, Beijing 102616, China. <sup>2</sup>Beijing Academic of Artificial Intelligence, Beijing 1022, China
+[Dong Sui]<sup>1</sup>, [Nanting Song]<sup>1</sup>, [Yacong Li]<sup>2</sup>,  [Zhaoxin Li]<sup>3</sup>, [Yang Li]<sup>1</sup>,Maozu,Guo<sup>1</sup>,.<br />
+<sup>1</sup>  Beijing University of Civil Engineering and Architecture, Beijing 102616, China.
+<sup>2</sup>  Beijing Academic of Artificial Intelligence, Beijing 1022, China.
+<sup>3</sup>  Chinese Academy of Agricultural Sciences, Beijing, 100081, China.
 
 MuralDDRM uses pre-trained [DDPMs](https://hojonathanho.github.io/diffusion/) for solving the intricate and varied degradation issues in murals. It does so efficiently and without problem-specific supervised training.
 
